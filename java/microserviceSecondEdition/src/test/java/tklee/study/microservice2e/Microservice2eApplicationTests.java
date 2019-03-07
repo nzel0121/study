@@ -21,7 +21,7 @@ public class Microservice2eApplicationTests {
 
     @Test
     public void testSpringBootApp() throws IOException {
-        String body = restTemplate.getForObject("/", String.class);
+        String body = restTemplate.getForObject("/helloWorld", String.class);
         assertThat(
                 new ObjectMapper().readTree(body)
                         .get("message")
