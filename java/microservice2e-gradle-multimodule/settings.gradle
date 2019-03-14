@@ -1,0 +1,3 @@
+rootProject.name = 'microservice2e-gradle-multimodule'
+include 'fares'
+

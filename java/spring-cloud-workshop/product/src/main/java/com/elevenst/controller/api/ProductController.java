@@ -11,8 +11,10 @@ public class ProductController {
 
     @GetMapping("/{productId}")
     public String getProduct(@PathVariable String productId) {
-        System.out.println();
+        throw new RuntimeException("I/O Exception");
+
+        /*System.out.println();
         return "[product id = " + productId +
-                " at " + System.currentTimeMillis() + "]";
+                " at " + System.currentTimeMillis() + "]";*/
     }
 }
