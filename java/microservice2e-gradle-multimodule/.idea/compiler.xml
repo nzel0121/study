@@ -4,8 +4,6 @@
     <bytecodeTargetLevel>
       <module name="book_main" target="1.8" />
       <module name="book_test" target="1.8" />
-      <module name="search_main" target="1.8" />
-      <module name="search_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
