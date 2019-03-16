@@ -37,7 +37,7 @@ dependencies {
 }
 ```
 
-## SubModule build.gradle 설정
+## Submodule (fares) build.gradle 설정
 사용기술 
 * spring-boot
 * srping-boot-web
