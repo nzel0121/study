@@ -93,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/fares/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -1319,24 +1319,6 @@
             <path>
               <item name="microservice2e-gradle-multimodule" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice2e-gradle-multimodule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fares" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice2e-gradle-multimodule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice2e-gradle-multimodule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fares" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice2e-gradle-multimodule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice2e-gradle-multimodule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="fares" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservice2e-gradle-multimodule" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice2e-gradle-multimodule" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1500,7 +1482,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552580320598</updated>
-      <workItem from="1552580336159" duration="19917000" />
+      <workItem from="1552580336159" duration="22468000" />
     </task>
     <servers />
   </component>
@@ -1525,7 +1507,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19917000" />
+    <option name="totallyTimeSpent" value="22468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="593" y="0" width="1087" height="1050" extended-state="6" />
@@ -1549,12 +1531,12 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run Dashboard" visible="true" weight="0.32923076" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.32923076" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" weight="0.33948717" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2861244" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2861244" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="right" id="Gradle" weight="0.26686218" />
@@ -1882,7 +1864,7 @@
     <entry file="file://$PROJECT_DIR$/fares/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
